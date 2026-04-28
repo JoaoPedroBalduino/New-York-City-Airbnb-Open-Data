@@ -5,7 +5,7 @@ Projeto de análise e tratamento de dados do Airbnb em Nova York com foco em lim
 # 👥 Participantes
 
 - Nome 1: João Pedro Balduino Leitão
-- Nome 2: Caio Palcio
+- Nome 2: Caio Palacio
 - Nome 3: Samuel de Sousa
 - Nome 4: José Alves
 - Nome 5: Enzo Santos
